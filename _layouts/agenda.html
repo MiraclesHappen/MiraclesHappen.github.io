@@ -7,6 +7,14 @@
     <section>
 
         <h1>{{ page.title }}</h1>
+        {% if page.subtitle %}
+            <p><strong>{{ page.subtitle }}</strong></p>
+        {% endif %}
+
+        <ul>
+            <li><strong>Time</strong>: {{ page.gather_date }} {% if page.gather_time %}{{ page.gather_time }}{% else %}18:00-21:00{% endif %}</li>
+            <li><strong>Place</strong>: {% if page.gather_place %}{{ page.gather_place }}{% else %}Renmin University, listen to WeChat group for details{% endif %}</li>
+        </ul>
 
         {{ content }}
 
