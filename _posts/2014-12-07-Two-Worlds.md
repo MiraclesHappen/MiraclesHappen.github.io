@@ -39,4 +39,3 @@ The huge wave of Chinese immigration to the United States in recent years show t
 ## Sharing
 * Leonardo
   * What's GOD's word？ 
-  * Doing business in Beijing. 
