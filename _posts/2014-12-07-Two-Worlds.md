@@ -33,3 +33,10 @@ The huge wave of Chinese immigration to the United States in recent years show t
 11. Chinese people growing vegetables Or flowers in the yard; While Americans growing grass.
 
 12. Female Americans: change the family name when getting married.
+
+---
+
+## Sharing
+* Leonardo
+  * What's GOD's word？ 
+  * Doing business in Beijing. 
