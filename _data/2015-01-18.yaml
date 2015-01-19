@@ -1,0 +1,30 @@
+date: 2015-01-18
+host: May
+subject: Books and Movies
+attenders:
+  - May 
+  - Echo 
+  - William
+  - Kevin
+  - Leonardo 
+  - Claire 
+  - Cici
+  - Serena
+  - Joy
+  - Colin 
+  - Walter 
+  - Lisa 
+  - Lily 
+  - Thomas
+speakers:
+  - {name: Joy, question: 7}
+  - {name: Kevin, question: 1}
+  - {name: Cici, question: 4}
+  - {name: Echo, question: 5}
+  - {name: Colin, question: 2}
+  - {name: Walter, question: 8}
+  - {name: William, question: 3}
+  - {name: Lisa, question: 6}
+  - {name: Thomas, question: 6}
+shares:
+  - {name: Leonardo, topic: When miracles happen}
