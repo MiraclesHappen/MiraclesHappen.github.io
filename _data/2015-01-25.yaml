@@ -1,0 +1,33 @@
+date: 2015-01-25
+host: Cici
+subject: Dream City
+attenders:
+  - Lernado
+  - Thomas
+  - Joy
+  - Cici
+  - Kevin 
+  - Claire 
+  - Mae
+  - Serena
+  - William
+  - Jonathon
+  - Andy
+  - Colin 
+  - {name: Jake, firstTime: True}
+  - {name: Lina, firstTime: True}
+speakers:
+  - {name: William, question: 1}
+  - {name: Thomas, question: 2}
+  - {name: Joy, question: 5}
+  - {name: Lina, question: 3}
+  - {name: Kevin, question: 8}
+  - {name: Colin, question: 7}
+  - {name: Mae, question: 4}
+  - {name: Lernado, question: 9}
+  - {name: Andy, question: 6}
+shares:
+  - {name: Claire, topic: Claire’s Night at Museum – Visiting Museums in Beijing}
+  - {name: Colin, topic: Different Ideas and Different Actions Equals Different Outcomes, Approximately Equals Successes}
+  - {name: Kevin, topic: Say something about Chinese football team}
+  - {name: Thomas, topic: How to ensure security in our daily life}
