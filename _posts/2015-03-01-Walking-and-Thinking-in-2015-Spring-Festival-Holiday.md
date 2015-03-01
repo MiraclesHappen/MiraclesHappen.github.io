@@ -31,7 +31,7 @@ Whatever,I reckon you have too much to share with us in the Miracle Happen Engli
 
 1. Is there anything refreshingly change your hometown? 
 2. Regarding Spring Festival ceremony activities, do you like current ones or those of decades ago? 
-3. It is widely acknowledged that traffic congestion has become a common phenomenonon highways during Spring Festival rush days; what do you suggest to relievethis problem?
+3. It is widely acknowledged that traffic congestion has become a common phenomenonon highways during Spring Festival rush days; what do you suggest to relieve this problem?
 4. Being bombarded by hundreds of festival calls and messages, do you feel tired of answering them, what do you do to cope with them?
 5. Compared with decades ago, nowadays, children can receive more lucky money. Do you think it should be encouraged? 
 6. Share good news or something made you happy happened to your family.

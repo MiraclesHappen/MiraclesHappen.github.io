@@ -1,6 +1,6 @@
 date: 2015-02-01
 host: Joy
-subject: The Blessed Unrest
+subject: "The Blessed Unrest"
 attenders:
   - Joy
   - Andy
@@ -19,7 +19,7 @@ speakers:
   - Lernado
   - Joy
 shares:
-  - {name: Andy, topic: The enemies we have to face in life}
-  - {name: Jake, topic: Chinese finance situation}
-  - {name: Lina, topic: Why should we step out of our comfortable zone}
-  - {name: William, topic: William in pool}
+  - {name: Andy, topic: "The enemies we have to face in life"}
+  - {name: Jake, topic: "Chinese finance situation"}
+  - {name: Lina, topic: "Why should we step out of our comfortable zone?"}
+  - {name: William, topic: "William in pool"}

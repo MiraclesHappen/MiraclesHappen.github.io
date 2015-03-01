@@ -1,0 +1,18 @@
+date: 2015-03-01
+host: Thoma
+subject: "Walking and Thinking in 2015 Spring Festival Holiday"
+speakers:
+  - {name: William, question: 6}
+  - {name: Emma, question: 4}
+  - {name: Kevin, question: 5}
+  - {name: Nancy, question: 3}
+  - {name: Andy, question: 1}
+  - {name: Colin, question: 2}
+  - {name: Rushow, question: 9}
+  - {name: Lisa, question: 7}
+  - {name: Cici, question: 8}
+shares:
+  - {name: Lina, topic: "Why Should We Read Original Literature?"}
+  - {name: Andy, topic: "Once Upon A Time in Spring Festival"}
+  - {name: Cici, topic: "American TV Shows"}
+  - {name: Joy, topic: "Just One Step"}
